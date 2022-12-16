@@ -1,0 +1,24 @@
+{
+  "name": "kaeyosthaeron.com",
+  "version": "1.0.0",
+  "description": "Hi, my name is Kaique! I'm a Senior Software Engineer II at XP Inc.\r looking forward on my career. Currently working on Open Finance from\r Brazil, São Paulo. I have at least 17 years of experience with a variety\r of technologies, teams, products and of course computer languages.",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktfth/kaeyosthaeron.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktfth/kaeyosthaeron.com/issues"
+  },
+  "homepage": "https://github.com/ktfth/kaeyosthaeron.com#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
