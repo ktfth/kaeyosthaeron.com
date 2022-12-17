@@ -1,3 +1,6 @@
+---
+layout: content.njk
+---
 # Resume
 
 ## Presentation

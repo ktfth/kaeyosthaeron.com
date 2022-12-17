@@ -7,7 +7,6 @@ title: Kaique da Silva
 ## Description
 
 A place to share knowledge about computer programming languages,
-
 new stacks, discoveries and a little bit of fun.
 
 ***
